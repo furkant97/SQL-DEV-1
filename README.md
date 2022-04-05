@@ -1,1 +1,1 @@
-# SQL-ÖDEV-1
+# Patika SQL Ödevleri
